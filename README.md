@@ -47,7 +47,7 @@ class About extends Me <br>
 
 
 
-<img style="width:"35px"" src="https://user-images.githubusercontent.com/100288963/193474421-1816b12d-e767-4165-a29a-48f5ac8b316a.gif"> <img> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 <br>
+<img src="https://user-images.githubusercontent.com/100288963/193474421-1816b12d-e767-4165-a29a-48f5ac8b316a.gif" width:"35px"> <img> I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊 <br>
  <br>
 <br>
 <br>
