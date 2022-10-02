@@ -5,21 +5,21 @@
                                                     ✨✨Mindal World ✨✨  <br>
 
 
-<?php
+<?php <br>
 
-namespace AshBaker;
+namespace AshBaker; <br>
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Teleperformance',
-                'position' => 'Hosting specialist'         
-            ]
-        ];
-    }
+class About extends Me <br>
+{ <br>
+    public function getCurrentWorkplace(): array <br>
+    { <br>
+        return [ <br>
+            'workplace' => [ <br>
+                'company' => 'Teleperformance', <br>
+                'position' => 'Hosting specialist'   <br>       
+            ] <br>
+        ]; <br>
+    } <br>
 
     public function getDailyKnowledge(): array
     {
