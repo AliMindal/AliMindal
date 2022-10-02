@@ -1,8 +1,8 @@
-                                                          Hi there 👋
+                                                          Hi there 👋 <br>
 
-                                                       Please Step Into:
+                                                       Please Step Into:  <br>
 
-                                                    ✨✨Mindal World ✨✨
+                                                    ✨✨Mindal World ✨✨  <br>
 
 
 <?php
