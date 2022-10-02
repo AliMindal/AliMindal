@@ -2,7 +2,7 @@
 
                                                        Please Step Into:
 
-                                                    ✨✨Mindal World ✨✨
+                                                   ✨✨Mindal's World ✨✨
 
 
 <?php <br>
